@@ -541,7 +541,7 @@ def allEyebrows():
 def allEyes():
     myallEyes1(17,275)
     myallEyes2(95,270)
-ankur()
+myprogrammingworld2021()
 allLegs()
 myShirt()
 myHead()
@@ -557,7 +557,6 @@ if __name__ == '__main__':
     screensize(800, 600, "#f0f0f0")
     pensize(3)
     speed(9)
-    Doraemon()
-    ankur(100, -300)
-    write('by Deepak kumar', font=("Bradley Hand ITC", 30, "bold"))
+    myprogrammingworld2021(100, -300)
+    write('by Atul Sharma', font=("Bradley Hand ITC", 30, "bold"))
     mainloop()
